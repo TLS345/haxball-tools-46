@@ -10,7 +10,6 @@ Perfect for keeping your room safe from abuse without needing external tokens or
 - 🔐 **Auto-generated admin password** (16 bytes = 32 hex characters, using `crypto.getRandomValues`).
 - 🧠 **Login system via chat command**: players can use `!admin [password]` to become admin.
 - 🔄 **Automatic admin reassignment**: if the admin leaves, the next player becomes admin automatically.
-- 👋 **Welcome messages and visual feedback** in chat.
 - 💬 **Command protection**: hides admin commands from public chat.
 - ⚙️ **Plug-and-play setup** — works directly on [Haxball Headless Host](https://www.haxball.com/headless).
 
